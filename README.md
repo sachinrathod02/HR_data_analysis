@@ -14,7 +14,7 @@ The Employee Analysis Dashboard is a comprehensive visualization tool built usin
 - Are there any underrepresented groups within specific roles or departments?
 
 # Process
-The project followed a structured process to ensure data integrity and insightful visualizations:
+## The project followed a structured process to ensure data integrity and insightful visualizations:
 
 ## Data Collection:
 The data was sourced from Excel.
@@ -31,10 +31,10 @@ Verified accuracy by cross-referencing calculated metrics with raw data.
 Published the dashboard for interactive use and analysis.
 
 # Project Insights
-The dashboard revealed the following key insights:
+## The dashboard revealed the following key insights:
 
-## Departments such as [e.g., "IT" or "Marketing"] show higher employee satisfaction scores, while [e.g., "Operations"] reports lower satisfaction levels.
-## A significant gender imbalance was observed in certain departments, such as [e.g., "Engineering"].
-## Salary disparities exist between job roles, highlighting potential areas for pay equity analysis.
-## Departments with lower employee counts tend to report higher satisfaction, possibly due to better management focus.
-## High-salary positions correlate strongly with higher job satisfaction, but not consistently across all departments
+- Departments such as [e.g., "IT" or "Marketing"] show higher employee satisfaction scores, while [e.g., "Operations"] reports lower satisfaction levels.
+- A significant gender imbalance was observed in certain departments, such as [e.g., "Engineering"].
+- Salary disparities exist between job roles, highlighting potential areas for pay equity analysis.
+- Departments with lower employee counts tend to report higher satisfaction, possibly due to better management focus.
+- High-salary positions correlate strongly with higher job satisfaction, but not consistently across all departments
