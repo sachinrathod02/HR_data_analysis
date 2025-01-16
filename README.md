@@ -14,7 +14,7 @@ The Employee Analysis Dashboard is a comprehensive visualization tool built usin
 # Are there any underrepresented groups within specific roles or departments?
 
 ## Process
-# The project followed a structured process to ensure data integrity and insightful visualizations:
+The project followed a structured process to ensure data integrity and insightful visualizations:
 
 ## Data Collection:
 The data was sourced from Excel.
