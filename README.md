@@ -5,13 +5,13 @@ The Employee Analysis Dashboard is a comprehensive visualization tool built usin
 - What is the gender distribution across the organization and within departments?
 - What is the average salary by department, position, and gender?
 -  Which departments have the highest and lowest employee satisfaction scores?
-# How does job satisfaction correlate with salary and position?
-# What is the employee count by department, position, and overall?
-# Are there any noticeable salary disparities across roles or genders?
-# Which departments or roles have the highest number of employees?
-# How does department size affect employee satisfaction levels?
-# What are the key differences in demographics between departments?
-# Are there any underrepresented groups within specific roles or departments?
+- How does job satisfaction correlate with salary and position?
+- What is the employee count by department, position, and overall?
+- Are there any noticeable salary disparities across roles or genders?
+- Which departments or roles have the highest number of employees?
+- How does department size affect employee satisfaction levels?
+- What are the key differences in demographics between departments?
+- Are there any underrepresented groups within specific roles or departments?
 
 ## Process
 The project followed a structured process to ensure data integrity and insightful visualizations:
