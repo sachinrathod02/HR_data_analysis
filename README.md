@@ -12,3 +12,20 @@ The Employee Analysis Dashboard is a comprehensive visualization tool built usin
 # How does department size affect employee satisfaction levels?
 # What are the key differences in demographics between departments?
 # Are there any underrepresented groups within specific roles or departments?
+
+## Process
+# The project followed a structured process to ensure data integrity and insightful visualizations:
+
+## Data Collection:
+The data was sourced from Excel.
+## Data Cleaning and Transformation:
+Cleaned the dataset to remove duplicates and handle missing values.
+Standardized fields such as department names, job roles, and salary categories.
+## Dashboard Design:
+Created calculated measures using DAX to derive insights like average salary, satisfaction scores, and employee distribution.
+Incorporated slicers for dynamic filtering by department, position, and gender.
+Used bar charts, pie charts, and tables to display the data interactively.
+## Validation:
+Verified accuracy by cross-referencing calculated metrics with raw data.
+## Deployment:
+Published the dashboard for interactive use and analysis.
