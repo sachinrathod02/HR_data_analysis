@@ -13,7 +13,7 @@ The Employee Analysis Dashboard is a comprehensive visualization tool built usin
 # What are the key differences in demographics between departments?
 # Are there any underrepresented groups within specific roles or departments?
 
-## Process
+### Process
 The project followed a structured process to ensure data integrity and insightful visualizations:
 
 ## Data Collection:
