@@ -2,8 +2,8 @@
 # Description
 The Employee Analysis Dashboard is a comprehensive visualization tool built using Power BI. It provides insights into various aspects of employee data, such as demographics, salaries, job satisfaction, and departmental performance. The dashboard helps organizations make data-driven decisions to improve employee engagement and operational efficiency.
 # Questions(KPIs)
-# What is the gender distribution across the organization and within departments?
-# What is the average salary by department, position, and gender?
+- What is the gender distribution across the organization and within departments?
+-What is the average salary by department, position, and gender?
 # Which departments have the highest and lowest employee satisfaction scores?
 # How does job satisfaction correlate with salary and position?
 # What is the employee count by department, position, and overall?
@@ -13,7 +13,7 @@ The Employee Analysis Dashboard is a comprehensive visualization tool built usin
 # What are the key differences in demographics between departments?
 # Are there any underrepresented groups within specific roles or departments?
 
-### Process
+## Process
 The project followed a structured process to ensure data integrity and insightful visualizations:
 
 ## Data Collection:
